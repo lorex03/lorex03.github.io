@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.9481e3bb.css",
-    "main.js": "/static/js/main.6ea0da86.js",
+    "main.css": "/static/css/main.9b504fd6.css",
+    "main.js": "/static/js/main.7d8b0211.js",
     "static/js/787.6971d1b3.chunk.js": "/static/js/787.6971d1b3.chunk.js",
     "static/media/CV-Lorena Florio.pdf": "/static/media/CV-Lorena Florio.13744fda71ff2b67ca37.pdf",
     "static/media/lorenaflorio.jpeg": "/static/media/lorenaflorio.7325f8ea760ddbb4f76b.jpeg",
     "index.html": "/index.html",
-    "main.9481e3bb.css.map": "/static/css/main.9481e3bb.css.map",
-    "main.6ea0da86.js.map": "/static/js/main.6ea0da86.js.map",
+    "main.9b504fd6.css.map": "/static/css/main.9b504fd6.css.map",
+    "main.7d8b0211.js.map": "/static/js/main.7d8b0211.js.map",
     "787.6971d1b3.chunk.js.map": "/static/js/787.6971d1b3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9481e3bb.css",
-    "static/js/main.6ea0da86.js"
+    "static/css/main.9b504fd6.css",
+    "static/js/main.7d8b0211.js"
   ]
 }
