@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.bfc3619a.css",
-    "main.js": "/static/js/main.626676d5.js",
+    "main.css": "/static/css/main.ee9f52ec.css",
+    "main.js": "/static/js/main.ede78051.js",
     "static/js/787.6971d1b3.chunk.js": "/static/js/787.6971d1b3.chunk.js",
     "static/media/Electro Hourglass - HD Video Background Loop.mp4": "/static/media/Electro Hourglass - HD Video Background Loop.6a5d915c4558cef36ba8.mp4",
-    "static/media/CV-Lorena Florio.pdf": "/static/media/CV-Lorena Florio.13744fda71ff2b67ca37.pdf",
+    "static/media/CV-Lorena Florio.pdf": "/static/media/CV-Lorena Florio.5d47c0f9c5e8f7e8fbcf.pdf",
     "static/media/lorenaflorio.jpeg": "/static/media/lorenaflorio.7325f8ea760ddbb4f76b.jpeg",
     "index.html": "/index.html",
-    "main.bfc3619a.css.map": "/static/css/main.bfc3619a.css.map",
-    "main.626676d5.js.map": "/static/js/main.626676d5.js.map",
+    "main.ee9f52ec.css.map": "/static/css/main.ee9f52ec.css.map",
+    "main.ede78051.js.map": "/static/js/main.ede78051.js.map",
     "787.6971d1b3.chunk.js.map": "/static/js/787.6971d1b3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bfc3619a.css",
-    "static/js/main.626676d5.js"
+    "static/css/main.ee9f52ec.css",
+    "static/js/main.ede78051.js"
   ]
 }
